@@ -1,0 +1,15 @@
+{
+    "name": "codesolutions",
+    "version": "1.0.0",
+    "description": "",
+    "main": "date_difference.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "date-fns": "^2.21.1"
+    }
+}
